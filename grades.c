@@ -15,8 +15,7 @@ int assignment_info[]);
 double compute_std(double mean, int num_of_assignments, int cur_length,
 int penalty_per_day, 
 int assignment_info[]);
-/*double compute_grade(int num_of_assignments, int drop_n_lower_assignments, int cur_length, 
-int penalty_per_day, int assignment_info[]);*/
+
 double compute_grade(int cur_length, int penalty_per_day, int drop_n_lower_assignments, 
 int assignment_info[]);
 int check_dropped_assignment(int num, int dropped_assignments[], int dropped_count);
