@@ -4,7 +4,7 @@ This C program processes assignment scores to compute a student's final numeric 
 **Features**
 
 Reads assignment data from input
-Applies late penalties
+Applies late penalties \n
 Drops the lowest scoring assignments
 Calculates a weighted numeric grade
 Optionally computes statistical data (mean and standard deviation)
